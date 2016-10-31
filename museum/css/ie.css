@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'RodchenkoCTTRegular';
+	src: url('../fonts/ie/RodchenkoCr.eot');
+	src: local('☺'), url('../fonts/ie/RodchenkoCr.woff') format('woff'), url('../fonts/ie/RodchenkoCr.ttf') format('truetype'), url('../fonts/ie/RodchenkoCr.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
